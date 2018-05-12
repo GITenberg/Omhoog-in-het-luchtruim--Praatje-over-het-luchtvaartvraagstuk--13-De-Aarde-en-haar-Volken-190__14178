@@ -1,0 +1,30 @@
+_repo: Omhoog-in-het-luchtruim--Praatje-over-het-luchtvaartvraagstuk--13-De-Aarde-en-haar-Volken-190__14178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Uildriks, Frederike J. van
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '5396'
+    url: http://www.gutenberg.org/2009/agents/5396
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14178'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airships'
+- !lcsh 'Airplanes'
+- !lcc 'TL'
+- !lcsh 'Balloons'
+title: "Omhoog in het luchtruim! Praatje over het luchtvaartvraagstuk\r\nDe Aarde\
+  \ en haar Volken, 1908"
+url: http://www.gutenberg.org/ebooks/14178
